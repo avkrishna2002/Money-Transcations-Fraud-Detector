@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 # Exercise functions
 def exercise_0(file):
     # Read the dataset as a Pandas dataframe
-    df = pd.read_csv("D:/All codes/jpmorganproject/transactions.csv")
+    df = pd.read_csv("/Path of the Transcations.csv")
     return df
 
 def exercise_1(df):
